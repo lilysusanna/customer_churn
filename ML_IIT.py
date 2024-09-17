@@ -10,6 +10,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pickle
+import StandardScaler
 
 
 st.title('Welcome To Churn Prediction')
