@@ -9,7 +9,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-import StandardScaler
+
 
 
 st.title('Welcome To Churn Prediction')
