@@ -4,7 +4,7 @@ Created on Mon Nov 14 20:05:13 2022
 
 @author: Lily, Ajay, Baseet, Adithya, Sudhanshu
 """
-!pip install scikit-learn
+
 import streamlit as st
 import pandas as pd
 import numpy as np
