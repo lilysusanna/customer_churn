@@ -4,7 +4,6 @@ Created on Mon Nov 14 20:05:13 2022
 
 @author: Lily, Ajay, Baseet, Adithya, Sudhanshu
 """
-pip install --upgrade
 print(f"Python version: {sys.version}")
 print(f"Version info: {sys.version_info}")
 import streamlit as st
